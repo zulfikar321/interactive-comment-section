@@ -63,7 +63,7 @@ replyButtons.forEach((btn) => {
                 <img src="images/avatars/image-juliusomo.png" alt="" />
               </div>
               <p class="name">juliusomo <span class="user-label">you</span></p>
-              <p class="date">1month ago</p>
+              <p class="date">just now</p>
             </div>
             <div class="icon">
               <div class="delete" onclick="showModule()">
