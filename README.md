@@ -9,6 +9,9 @@ Your users should be able to:
 -Create, Read, Update, and Delete comments and replies
 -Upvote and downvote comments
 
+### Screenshot
+![ss](https://github.com/zulfikar321/interactive-comment-section/blob/main/Web%20capture_27-2-2022_225930_127.0.0.1.jpeg?raw=true)
+
 ### Built with
  
 - HTML 5
