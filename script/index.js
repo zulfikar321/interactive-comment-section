@@ -147,7 +147,7 @@ btnSendComment.onclick = () => {
             <div class="vote-icon plus">
               <img src="images/icon-plus.svg" alt="icon-plus" />
             </div>
-            <p class="vote-text">12</p>
+            <p class="vote-text">0</p>
             <div class="vote-icon minus">
               <img src="images/icon-minus.svg" alt="icon-minus" />
             </div>
